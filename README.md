@@ -1,10 +1,10 @@
 ### Hi there 👋 im milan Niroula
 
-🔭 I’m currently working on something cool!
+.🔭 I’m currently working on something cool!
 
-🌱 I’m currently learning with the help from docs.github.com
+.🌱 I’m currently learning with the help from docs.github.com
 
-💬 Ask me about GitHub
+.💬 Ask me about GitHub
  
 <!--
 **mimi146/mimi146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
